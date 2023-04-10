@@ -1,0 +1,22 @@
+{
+  "name": "is-valid-url",
+  "version": "1.0.0",
+  "description": "Verify whether the string value is a URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhavalrauttech/validate-url.git"
+  },
+  "keywords": [
+    "URL"
+  ],
+  "author": "Dhaval Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhavalrauttech/validate-url/issues"
+  },
+  "homepage": "https://github.com/dhavalrauttech/validate-url#readme"
+}
