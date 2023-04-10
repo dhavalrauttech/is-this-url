@@ -2,12 +2,12 @@
 
 ### Description
 - Check whether a string is a URL.
-- The string will return a Boolean value as a response
+- If string can be used as a URL by returning a Boolean value
 
 ### Installation
  
 
-    npm install custom-url-check
+    npm install  is-this-url
 
 ### Code
   
@@ -24,3 +24,5 @@ ValidateUrl("https://www.youtube.com/watch?v=w3jLJU7DT5E"); // true
 ValidateUrl("youtube"); // false
 ValidateUrl("124"); // false 
 ``` 
+
+CodeSandbox Example [ Click here](https://codesandbox.io/s/validate-url-bgweiz " Click here")
