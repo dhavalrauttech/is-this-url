@@ -1,6 +1,6 @@
 {
   "name": "is-this-url",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Verify whether the string value is a URL",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/dhavalrauttech/validate-url.git"
   },
   "keywords": [
-    "URL"
+    "URL", "URL validation", "Validate URL", "validate"
   ],
   "author": "Dhaval Raut",
   "license": "ISC",
