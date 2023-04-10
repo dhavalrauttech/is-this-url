@@ -1,5 +1,5 @@
 {
-  "name": "is-valid-url",
+  "name": "is-this-url",
   "version": "1.0.0",
   "description": "Verify whether the string value is a URL",
   "main": "index.js",
