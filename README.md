@@ -7,7 +7,7 @@
 ### Installation
  
 
-    npm install  is-this-url
+    npm install is-this-url
 
 ### Code
   
